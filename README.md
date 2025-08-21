@@ -24,5 +24,4 @@ Demonstrates skills in:
 ## Contact
 Email: varunar513@gmail.com
 
-## License
-MIT License - see [LICENSE](LICENSE).
+
